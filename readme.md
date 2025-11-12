@@ -5,7 +5,7 @@
 ## for profile page
 - go to /profile
 
-## IMAGES
+## IMAGEsS
 
 ![App Screenshot](images/signup.png)
 ![Logo](images/login.png)
